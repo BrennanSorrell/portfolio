@@ -1,0 +1,7 @@
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\brenn\OneDrive\Documents\School\Fall 2021\CIS 199\VS Files\Program2\Program2\obj\Debug\Program2.pdb
